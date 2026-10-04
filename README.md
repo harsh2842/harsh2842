@@ -2,7 +2,7 @@
 
 ### Python Developer | Backend Developer | Full Stack Enthusiast
 
-I'm a Computer Science graduate and former Associate Software Engineer at Webkul, with approximately 8 months of professional experience working with Python, Odoo, PostgreSQL, JavaScript and web technologies.
+I'm a Computer Science graduate and former Associate Software Engineer at Webkul, with approximately 8 months of professional experience working with Python,Django,FastAPI,Odoo, PostgreSQL, JavaScript and web technologies.
 
 I enjoy designing backend systems, developing REST APIs, solving challenging problems and building full-stack applications.
 
